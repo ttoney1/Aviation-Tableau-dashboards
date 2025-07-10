@@ -2,10 +2,10 @@
 Tableau Dashboards
 
 This Tableau dashboard was made for the Federal Aviation Administration (FAA) (Booz Allen Hamilton federal client).
--------------------------------------------------------------------------------------------------------------------------
+
 The dashboard contains the below 5 tabs that users can click through to view various visualizations.
 All dashboards with maps or charts allow users to filter by foreign countries displayed in that visual. User can hover over all visuals to display tooltips that will show the information from table for that visual. 
----------------------------------------------------------------------------------------------------------------
+_________________________________________________________________________________________________________________________
 Tabs:
 1.GLIDE Acronyms & References
 An interactive table that allows the user to filter by category by clicking on a tab for that category. It displays a reference page defining acronyms and key terms related to aviation, emissions, and international aviation bodies.
@@ -21,11 +21,11 @@ A comparative bar chart aligning specific countries’ 2010 CO₂ emissions with
 
 5. Summary of Environmental Information
 A detailed table summarizing environmental metrics per country, including CO₂ emissions, geographic and organizational classifications, and participation in environmental initiatives (e.g., CORSIA, CAEP).
-----------------------------------------------------------------------------------------------------------------------------------
+_____________________________________________________________________________________________
 Background
 The International Civil Aviation Organization (ICAO)'s Committee on Aviation Environmental Protection (CAEP)'s 10th meeting (CAEP/10)
  standard aims to reduce aviation's climate impact by driving the development and adoption of more fuel-efficient aircraft designs.
- ------------------------------------------------------------------------------------------------------------------------------
+_______________________________________________________________________________________________________________________________________
 
  Conclusion:
 

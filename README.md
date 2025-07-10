@@ -1,7 +1,7 @@
 # Tableau-dashboard
 This Tableau dashboard was made for the Federal Aviation Administration (FAA) (Booz Allen Hamilton federal client).
 The dashboard contains 5 tabs that users can click through to view various visualizations.
-All dashboards with maps or charts allow users to filter by foreign countries displayed in that visual. User can hover over all visuals to display tooltips that will show the information from table for that visual. Users can also sort that table compares country 2010 CO₂ emissions by metric tons.
+All dashboards with maps or charts allow users to filter by foreign countries displayed in that visual. User can hover over all visuals to display tooltips that will show the information from the table for that visual. Users can also sort the tables that compare country 2010 CO₂ emissions by metric tons.
 _________________________________________________________________________________________________________________________
 Tabs:
 1.GLIDE Acronyms & References
@@ -26,4 +26,4 @@ ________________________________________________________________________________
 
  Conclusion:
 
-Based on the dashboard, countries with high aviation-related CO₂ emissions—such as the United Kingdom, Germany, United Arab Emirates, France, and South Korea (also United States and China based on typical global aviation trends but not shown in dashboard)—but limited involvement in alternative jet fuel (AJF) initiatives or sustainability partnerships, should prioritize investing in cleaner aviation technologies and international collaborations. Expanding AJF development and strengthening environmental policies could significantly reduce their emissions impact. Targeted efforts in these high-emission yet under-engaged countries would yield the greatest environmental benefit.
+Based on the dashboard, countries with high aviation-related CO₂ emissions—such as the United Kingdom, Germany, United Arab Emirates, France, and South Korea (also United States based on typical global aviation trends but not shown in dashboard because analyzing foreign countries)—but limited involvement in alternative jet fuel (AJF) initiatives or sustainability partnerships, should prioritize investing in cleaner aviation technologies and international collaborations. Expanding AJF development and strengthening environmental policies could significantly reduce their emissions impact. Targeted efforts in these high-emission yet under-engaged countries would yield the greatest environmental benefit.
